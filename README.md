@@ -43,25 +43,20 @@ E que melhor maneira de se preparar do que se comprometer publicamente, não é 
 
 Status | Trilha | Data de conclusão | Duração | Link da trilha | Badge
 :---------: |:---------: | :------: | :------: | :------: | :------: 
-🟢| Ingest data with Microsoft Fabric | 05/09/2026 | 4h34 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/explore-analytics-data-stores/) | [![trophy](/imgs/badges/explore_analytic_data_stores.svg)](https://learn.microsoft.com/en-us/users/claudiasobral/achievements/y4c53wsr)
-🟢| Implement a Lakehouse with Microsoft Fabric | 05/09/2026 | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)]
-🟢| Implement Real-Time Intelligence with Microsoft Fabric | 14/09/2026 | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
-🟢| Implement a data warehouse with Microsoft Fabric  | 17/09/2026 | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
-🟢| Manage a Microsoft Fabric environment | 21/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
-
+🟡| Ingest data with Microsoft Fabric |  | 4h17 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/) | 
+🔴| Implement a Lakehouse with Microsoft Fabric | | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/) | 
+🔴| Implement Real-Time Intelligence with Microsoft Fabric |  | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/) |
+🔴| Implement a data warehouse with Microsoft Fabric  |  | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/) | 
+🔴| Manage a Microsoft Fabric environment |  | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) | 
 Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 
 ## Laboratórios realizados
 
-- [Discover and connect to data in OneLake](01-explore-analytics-data-stores\discover_connect_data_OneLake.md):
-    - Ensina a carregar dados em um lakehouse, inserir dados numa tabela, usar o SQL endpoint e fazer visualizações rápidas
-- [Create a Microsoft Fabric Lakehouse](01-explore-analytics-data-stores\02_create_microsoft_lakehouse):
-    - Ensina a criar um lakehouse, carregar dados e fazer queries via T-SQL e visual query
+
 
 ## Recursos extras
 
-- [Repositório de questões do Warren-530](https://warren-530.github.io/dp600-practice/)
-- [Vídeo de prática em questões explicadas](https://youtu.be/gFscPTp7hb4)
+
 
 ## Data da prova: 01/10
 
