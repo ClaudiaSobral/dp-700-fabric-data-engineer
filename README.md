@@ -1,5 +1,4 @@
 # dp-700-fabric-data-engineer
-# dp-600-fabric-analytics-engineer
 <div align="center">
   
 ![logo Fabric](/imgs/logo_Fabric.png)
@@ -15,21 +14,16 @@
 ## ❇️ O que é esse repositório?
 Esse é meu registro público para auxiliar os estudos para a prova de certificação da DP-700, a Fabric Data Engineer Associate. Inspirada pela [Regilene Mariano](https://github.com/RegiMaria/), esse é meu compromisso público com a prova e o registro dos meus estudos, visando documentar meu progresso semanal até a prova.
 
-Consegui um voucher de 100% para a certificação DP-600 através do [Data Days 2026](https://community.fabric.microsoft.com/c/campaign-form/page?campaignID=Y2FtcGFpZ24tMTc4MTA0MDI5MDIxMw), através da comunidade Microsoft Fabric, e desde então tenho feito tudo o que está ao meu alcance para conseguir a certificação. 
+Consegui um voucher de 100% para a certificação DP-700 através do [Data Days 2026](https://community.fabric.microsoft.com/c/campaign-form/page?campaignID=Y2FtcGFpZ24tMTc4MTA0MDI5MDIxMw), através da comunidade Microsoft Fabric, e desde então tenho feito tudo o que está ao meu alcance para conseguir a certificação. 
 
-A base do meu estudo será o curso da própria Microsoft Learn, [Course DP-600T00-A: Implement analytics solutions using Microsoft Fabric](https://learn.microsoft.com/en-us/training/courses/dp-600t00).
+A base do meu estudo será o curso da própria Microsoft Learn, [Course DP-700T00-A: Implement data engineering solutions using Microsoft Fabric](https://learn.microsoft.com/en-us/training/courses/dp-700t00).
 
 Apesar de a certificação ter um custo envolvido, **o curso é gratuito para quem quiser aprender**! É só fazer uma conta gratuita lá.
 
 E que melhor maneira de se preparar do que se comprometer publicamente, não é mesmo?
 
 ## ❇️ Habilidades que serão adquiridas ao final do curso
-- Domínio do Microsoft Fabric: Capacidade de navegar e utilizar os principais componentes do Fabric, incluindo Lakehouses, Warehouses, Eventhouses e Dataflows.
-- Engenharia de Dados Analíticos: Habilidade de preparar, enriquecer e servir dados para análise, implementando transformações complexas e esquemas estrela para otimizar o consumo.
-- Modelagem Semântica Avançada: Proficiência na criação e otimização de modelos semânticos para Power BI, com foco em desempenho (Direct Lake, DAX) e escalabilidade.
-- Segurança e Governança: Capacidade de implementar controles de acesso granulares (RLS, OLS, sensibilidade) e gerenciar o ciclo de vida de ativos analíticos com pipelines de implantação e controle de versão.
-- Consultas Multi-linguagem: Habilidade de consultar e analisar dados usando SQL, KQL e DAX em diferentes cargas de trabalho do Fabric.
-- Colaboração e Requisitos de Negócio: Experiência em traduzir requisitos de negócio em medidas analíticas e trabalhar em conjunto com arquitetos, analistas e administradores.
+
 
 
 
@@ -49,11 +43,11 @@ E que melhor maneira de se preparar do que se comprometer publicamente, não é 
 
 Status | Trilha | Data de conclusão | Duração | Link da trilha | Badge
 :---------: |:---------: | :------: | :------: | :------: | :------: 
-🟢| Explore analytics data stores in Microsoft Fabric | 05/09/2026 | 4h34 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/explore-analytics-data-stores/) | [![trophy](/imgs/badges/explore_analytic_data_stores.svg)](https://learn.microsoft.com/en-us/users/claudiasobral/achievements/y4c53wsr)
-🟢| Design and transform analytics data in Microsoft Fabric  | 05/09/2026 | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)]
-🟢| Design and manage semantic models in Microsoft Fabric | 14/09/2026 | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
-🟢| Prepare AI-ready analytics data in Microsoft Fabric  | 17/09/2026 | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
-🟢| Secure and govern analytics data in Microsoft Fabric | 21/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
+🟢| Ingest data with Microsoft Fabric | 05/09/2026 | 4h34 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/explore-analytics-data-stores/) | [![trophy](/imgs/badges/explore_analytic_data_stores.svg)](https://learn.microsoft.com/en-us/users/claudiasobral/achievements/y4c53wsr)
+🟢| Implement a Lakehouse with Microsoft Fabric | 05/09/2026 | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)]
+🟢| Implement Real-Time Intelligence with Microsoft Fabric | 14/09/2026 | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
+🟢| Implement a data warehouse with Microsoft Fabric  | 17/09/2026 | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
+🟢| Manage a Microsoft Fabric environment | 21/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) | ![trophy](/imgs/badges/explore_analytic_data_stores.svg)
 
 Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 
