@@ -1,0 +1,27 @@
+# Orchestrate processes and Data Movements with Microsoft Fabric
+
+- ETL pode ser automatizado no Fabric através de pipelines
+- Existem 3 gatilhos: On demand, On a schedule e In response to an event
+
+Dá para construir pipelines de forma low-code no Fabric.
+
+# Atividades de pipeline
+- Existem 3 grandes atividades:
+  - Data movements: tem a ver com movimentação dos dados da fonte para um lake/ware/eventhouse (por exemplo, uma Copy Data).
+  - Transformation activity: qualquer transformação no dado. Pode ser um Dataflow Gen2, Notebooks com Spark, Stored Procedures e Delete data.
+  - Control fow activity: controla o fluxo de dados através da implementação de lógica. Altera parâmetros e variáveis.
+
+# Parâmetros
+- É possível parametrizar as pipelines, definindo um parâmetro diferente para cada vez que a pipeline roda. Por exemplo, você pode especificar pastas específicas.
+
+# ID da pipeline
+- Cada pipeline é rastreável e gera um pipeline ID. Registra como a pipeline rodou, o sucesso ou falha e as configurações da pipeline.
+
+# Usando uma Copy Data Activity
+- Copy Job: trabalhos simples para ambientes apenas de cópia
+- Copy Data Activity: quando a cópia precisa ser um passo da pipeline
+- Dataflow Gen2: o dado precisa ser transformado por PowerQuery ou combinar múltiplas fontes de dados.
+
+# Pipeline templates
+- Você pode usar um template de pipeline da Microsoft ou criar os seus.
+- Para reutilizar um template, você exporta um .zip dele e depois carrega em "Importar templates"
